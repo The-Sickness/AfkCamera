@@ -1,7 +1,7 @@
-## Interface: 100005
+## Interface: 100105
 ## Author: Sharpedge_Gaming
 ## Title: AfkCamera
-## Version: v1.0
+## Version: v1.1
 ## Notes: This addon will activate your camera to move once you go afk.
 
 AfkCamera.lua
